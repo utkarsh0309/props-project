@@ -104,5 +104,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  Adding gif in Readme.md files.
  
  #my gif
- ![](https://https://github.com/utkarsh0309/props-project/blob/main/react%20project%20gif.gif)
+ ![](https://github.com/utkarsh0309/props-project/blob/main/react%20project%20gif.gif)
 
